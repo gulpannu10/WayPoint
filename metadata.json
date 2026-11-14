@@ -1,0 +1,6 @@
+{
+  "name": "Waypoint",
+  "description": "Connected patient journey navigator with real-time OPD timeline, floor wayfinding, and clinical care AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
